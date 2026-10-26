@@ -1,0 +1,6 @@
+{
+  "name": "CodeMastery - Multi-Model Programming Workbench",
+  "description": "A focused developer workbench for mastering Rust, C, Python, JavaScript, and systems engineering with multi-model AI tutors (Gemini, Claude, ChatGPT, Ollama/Local), code execution sandbox, retrieval practice, and full project export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
